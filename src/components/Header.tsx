@@ -1,8 +1,10 @@
 const Header: React.FC = () => {
     return ( 
-        <div className="bg-gray-100 p-5 text-center">
-        <h1 className="text-3xl font-bold">Eleonora Nocentini Sköldebrink</h1>
-        <p>Wev Developer | React.js | Next.js | Node.js | Express | Redis</p>
+        <div className="p-5 text-center">
+        <h1 className="text-3xl font-bold text-[#bb9457] text-transform: uppercase;">Eleonora Nocentini Sköldebrink</h1>
+        <h2 className="text-black font-bold">Frontend (Full Stack) Developer</h2>
+        <p className="text-black"> | HTML5 | Javascript | CSS | Typescript | React.js | Next.js | Node.js | MongoDB | Express| Redis</p>
+        <h3 className="text-black font-bold text-left">MY STORY</h3>
         </div>
     )
 }
