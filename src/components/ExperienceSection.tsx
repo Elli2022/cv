@@ -63,6 +63,36 @@ import ExperienceItem from "./ExperienceItem";
             description: "As a Camera Operator in the detention center's surveillance center (BC), I played a crucial role in maintaining security and safety. My responsibilities included monitoring the detention center through camera systems and managing alarms across the facility using computerized communication systems. This role required a high level of focus and the ability to remain calm, stable, and controlled in stressful situations, such as when an alarm was triggered.",
             skills: ["CCTV Monitoring", "Alarm Management", "Crisis Management", "Communication", "Stress Management"]
           },
+          {
+            id: 6,
+            role: "Coordinator for Detention Plans",
+            company: "Kriminalvården",
+            period: "June 2018 - April 2020",
+            location: "Malmö",
+            description: "In my role as a Coordinator for Detention Plans at Kriminalvården, I worked closely with clients to develop individual detention plans, ensuring they met identified needs through timely coordination and collaboration with various stakeholders. My responsibilities included engaging in dialogues with clients to personalize plans, collaborating with other coordinators to implement necessary interventions, compiling and conveying situational reports to decision-making bodies, and participating in local, regional, and national forums on detention planning.",
+            skills: ["Problem Solving", "Client Relations", "Project Coordination", "Communication"]
+          },
+          {
+            id: 7,
+            role: "Alternate Board Member",
+            company: "Bostadsrättsföreningen Leka",
+            period: "June 2020 - December 2020",
+            location: "Malmö, Skåne, Sweden",
+            description: "As an Alternate Board Member at Bostadsrättsföreningen Leka, I stepped in at board meetings whenever a regular member was unable to attend. My role ensured continuity and the smooth running of governance processes, providing reliable support and decision-making presence.",
+            skills: ["Governance", "Decision Making", "Supportive Leadership"]
+          },
+          {
+            id: 8,
+            role: "Insurance Advisor",
+            company: "Trygg-Hansa",
+            period: "Feb 2017 - Sep 2017",
+            location: "Malmö, Skåne, Sweden",
+            description: "As an Insurance Advisor at Trygg-Hansa, I focused on customer service, insurance advising, and sales to corporate clients. Key aspects of my role included resilience, maintaining a positive outlook and quickly overcoming setbacks. I emphasized efficiency and reliability in my work, ensuring tasks were completed thoroughly and on time while adhering to all relevant regulations and processes. My approach was customer-oriented, aimed at providing excellent service by actively listening to and engaging with clients. I was driven and motivated by challenging, measurable goals and found satisfaction in achieving set objectives. Additionally, I thrived in a team environment, contributing to group cohesion and readily seeking help when needed.",
+            skills: ["Customer Service", "Sales", "Insurance Advising", "Resilience", "Efficiency", "Reliability", "Client Engagement", "Goal-Oriented", "Teamwork"]
+          }
+          
+          
+          
 
           
           
