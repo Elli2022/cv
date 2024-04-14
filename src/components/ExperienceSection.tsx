@@ -89,7 +89,47 @@ import ExperienceItem from "./ExperienceItem";
             location: "Malmö, Skåne, Sweden",
             description: "As an Insurance Advisor at Trygg-Hansa, I focused on customer service, insurance advising, and sales to corporate clients. Key aspects of my role included resilience, maintaining a positive outlook and quickly overcoming setbacks. I emphasized efficiency and reliability in my work, ensuring tasks were completed thoroughly and on time while adhering to all relevant regulations and processes. My approach was customer-oriented, aimed at providing excellent service by actively listening to and engaging with clients. I was driven and motivated by challenging, measurable goals and found satisfaction in achieving set objectives. Additionally, I thrived in a team environment, contributing to group cohesion and readily seeking help when needed.",
             skills: ["Customer Service", "Sales", "Insurance Advising", "Resilience", "Efficiency", "Reliability", "Client Engagement", "Goal-Oriented", "Teamwork"]
+          },
+          {
+            id: 9,
+            role: "Warehouse Employee",
+            company: "Uniflex",
+            period: "Apr 2014 - Jan 2015",
+            location: "Lund, Skåne, Sweden",
+            description: "As a Warehouse Employee contracted by Uniflex for Frigoscandia in Staffanstorp, I engaged in various warehouse operations including order picking, packing, and forklift driving. The part-time role demanded high levels of engagement, responsibility, and a strong work ethic. It required me to work independently and take initiative in a fast-paced environment. Throughout my tenure, I developed key skills such as stress tolerance, a competitive spirit, responsibility, and punctuality.",
+            skills: ["Warehouse Operations", "Forklift Operation", "Inventory Control", "Stress Tolerance", "Competitiveness", "Responsibility", "Punctuality"]
+          },
+          {
+            id: 10,
+            role: "Bartender",
+            company: "Etagegruppen",
+            period: "Aug 2009 - Aug 2010",
+            location: "Malmö, Skåne, Sweden",
+            description: "During my tenure as a Bartender with Etagegruppen, I provided high-quality beverage service in a fast-paced entertainment environment. My responsibilities included mixing and serving both classic and innovative cocktails, managing bar inventory, and maintaining a clean and organized bar area. I honed my customer service skills, adapting to diverse customer needs and ensuring a satisfactory dining and social experience. My role required excellent communication skills, a thorough understanding of mixology, and the ability to work effectively under pressure.",
+            skills: ["Customer Service", "Mixology", "Inventory Management", "Communication", "Stress Management"]
+          },
+          {
+            id: 11,
+            role: "Sales Associate",
+            company: "Foot Locker EMEA",
+            period: "Jan 2008 - Jun 2008",
+            location: "Copenhagen, Capital, Denmark",
+            description: "As a Sales Associate at Foot Locker EMEA, I employed various sales techniques to enhance customer engagement and boost store performance. My responsibilities included creating a welcoming store environment, maintaining orderly store conditions, assisting customers efficiently with their purchases, unpacking and organizing new stock, and building positive relationships with both customers and team members. The role demanded a high degree of customer service orientation and the ability to follow established routines.",
+            skills: ["Sales Techniques", "Customer Service", "Team Collaboration", "Inventory Management", "Store Maintenance"]
+          },
+          {
+            id: 12,
+            role: "Waitstaff",
+            company: "T. Tholstrup Catering ApS",
+            period: "Apr 2007 - Dec 2007",
+            location: "Copenhagen, Capital, Denmark",
+            description: "As Waitstaff at T. Tholstrup Catering ApS, I served customers across the company's various restaurants located in central Copenhagen. My role demanded excellent customer service skills, endurance, the ability to upsell effectively, flexibility in handling various service situations, and strong teamwork. These responsibilities required not only a thorough understanding of the dining experience but also an ability to adapt and collaborate effectively under pressure, ensuring customer satisfaction and smooth operation.",
+            skills: ["Customer Service", "Upselling", "Teamwork", "Flexibility", "Endurance"]
           }
+          
+          
+          
+          
           
           
           
