@@ -33,13 +33,13 @@ const Sidebar: React.FC = () => {
       <h3 className="text-xl font-bold mb-4 text-[#bb9457]">
         TECHNICAL SKILLS
       </h3>
-      <ul className="list-none space-y-2">
-        {skills.map((skill, index) => (
-          <li key={index} className="text-gray-300">
-            {skill}
-          </li>
-        ))}
-      </ul>
+      <ul className="list-disc space-y-2 ml-5">
+  {skills.map((skill, index) => (
+    <li key={index} className="text-gray-300">
+      {skill}
+    </li>
+  ))}
+</ul>
       <div className="text-[#bb9457]">
         <h3 className="text-xl font-bold mb-4">CONTACT</h3>
           <p className="text-gray-300">0046-724272912</p>
