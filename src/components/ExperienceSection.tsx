@@ -123,20 +123,9 @@ import ExperienceItem from "./ExperienceItem";
             company: "T. Tholstrup Catering ApS",
             period: "Apr 2007 - Dec 2007",
             location: "Copenhagen, Capital, Denmark",
-            description: "As Waitstaff at T. Tholstrup Catering ApS, I served customers across the company's various restaurants located in central Copenhagen. My role demanded excellent customer service skills, endurance, the ability to upsell effectively, flexibility in handling various service situations, and strong teamwork. These responsibilities required not only a thorough understanding of the dining experience but also an ability to adapt and collaborate effectively under pressure, ensuring customer satisfaction and smooth operation.",
+            description: "I began working part-time as Waitstaff at T. Tholstrup Catering ApS during my final year of high school at ProCivitas. In this role, I served customers across the company's various restaurants located in central Copenhagen. The job required excellent customer service skills, endurance to manage long shifts, the ability to upsell effectively, and the flexibility to handle diverse service situations. Working in a team environment, I developed a strong capability to adapt and collaborate under pressure, ensuring customer satisfaction and smooth operation.",
             skills: ["Customer Service", "Upselling", "Teamwork", "Flexibility", "Endurance"]
-          }
-          
-          
-          
-          
-          
-          
-          
-
-          
-          
-          
+        }
     ];
     
 
